@@ -9,7 +9,7 @@ The files are used for the twitter and document analysis. Most files are shipped
 The queries used for Twitter and the document analysis are key. So here are the major selectors in a nutshell:
 
 ### Twitter
-- Verkehrswende: ´´´'Verkehrswende OR Mobilitätswende -is:retweet'´´´,
+- Verkehrswende: ´'Verkehrswende OR Mobilitätswende -is:retweet'´,
 - 9-Euro-Ticket: ´´´'9euroticket OR 9EuroTicket OR 9-Euro-Ticket OR 9-Euroticket OR Neun-Euro-Ticket OR Neuneuroticket OR 9€-Ticket'´´´
 
 Regex functions to select mobility forms:
