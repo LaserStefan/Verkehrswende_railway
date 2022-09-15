@@ -1,6 +1,8 @@
 # Verkehrswende_railway
 This repo is part of an academic working paper on ecological transitions in the transport sector, focusing on the railway infrastructure.
 
+![Example graph of a Streamgraph](plots/Abb_6_streamgraph_Geschäftsberichte_annotiert.png?raw=true "Streamgraph")
+
 You can find the main code and plots attached.
 ## Code
 The files are used for the twitter and document analysis. Most files are shipped as Jupyter notebooks. However, the streamgraph was created through R.
