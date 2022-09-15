@@ -1,9 +1,10 @@
 # Verkehrswende_railway
 This repo is part of an academic working paper on ecological transitions in the transport sector, focusing on the railway infrastructure.
 
-![Example graph of a Streamgraph](plots/Abb_6_streamgraph_Geschäftsberichte_annotiert.png?raw=true "Streamgraph")
+![Example graph of a Streamgraph](plots/Abb_6_streamgraph_Geschäftsberichte_annotiert.png?raw=true "Example graph: Streamgraph")
+_This is an example plot from the analysis, displaying key terms in the accounting documents of the German railway company Deutsche Bahn._
 
-You can find the main code and plots attached.
+You can find the main `code`, `documents`, and `plots` attached.
 ## Code
 The files are used for the twitter and document analysis. Most files are shipped as Jupyter notebooks. However, the streamgraph was created through R.
 
@@ -38,6 +39,9 @@ The accounting/report documents by Deutsche Bahn searched for work groups. These
 - Reform = `r'(?i)reform|restruktur'`
 - Obsoleszenz = `r'(?i)obsoleszenz|repar|schaden|instandh|störung|instandse|stillstand|baustell|sani|renovi|mainten|wiederaufb|ausbess|veraltet'`
 - Wettbewerb = `r'(?i)wettbe|konkurr|marktfü'`
+
+## Documents
+These are key file created by the document analyses.
 
 ## Plots
 All plots created by the software code is included here. As a bonus graph, the comparison of Verkehrswende and Verkehrssicherheit is attached.
